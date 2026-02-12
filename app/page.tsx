@@ -458,7 +458,7 @@ function Hero({ onShopClick }: { onShopClick: () => void }) {
           className="text-[clamp(4rem,14vw,11rem)] font-black leading-[0.85] tracking-tight mb-4 text-white"
           style={{ fontFamily: "'Bebas Neue', cursive" }}
         >
-          <GlitchText>PLACE YOUR</GlitchText>
+          <GlitchText>Joedank-Suncoastbay</GlitchText>
           <br />
           <span className="text-[#D4AF37] relative">
             BETS
