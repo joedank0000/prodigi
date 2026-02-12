@@ -1,5 +1,9 @@
 [
   {
+    "folder": "hold",
+    "title": "Hold"
+  },
+  {
     "folder": "lottery",
     "title": "Lottery"
   }
