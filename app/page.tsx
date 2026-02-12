@@ -470,9 +470,9 @@ function Hero({ onShopClick }: { onShopClick: () => void }) {
           variants={{ hidden: { opacity: 0, y: 20 }, visible: { opacity: 1, y: 0 } }}
           className="text-white/40 text-sm md:text-base tracking-widest uppercase max-w-md mx-auto mt-8 mb-12"
         >
-          Chart-ready beats. Rare drums. High-stakes merch.
+          Chart-ready beats. Rare drumkits. Insane drops.
           <br />
-          <span className="text-[#8b0000]/80">The house always produces.</span>
+          <span className="text-[#8b0000]/80">LEASE BEATS TODAY</span>
         </motion.p>
 
         <motion.div
