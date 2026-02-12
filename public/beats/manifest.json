@@ -6,5 +6,9 @@
   {
     "folder": "lottery",
     "title": "Lottery"
+  },
+  {
+    "folder": "spark",
+    "title": "Spark"
   }
 ]
