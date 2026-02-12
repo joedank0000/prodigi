@@ -356,7 +356,7 @@ function Nav({ cartCount, onCartOpen }: { cartCount: number; onCartOpen: () => v
           <div className="text-white font-black text-lg tracking-tight leading-none" style={{ fontFamily: "'Bebas Neue', cursive" }}>
             PRODIGI
           </div>
-          <div className="text-[#D4AF37]/50 text-[9px] tracking-[0.4em] uppercase leading-none">House Always Wins</div>
+          <div className="text-[#D4AF37]/50 text-[9px] tracking-[0.4em] uppercase leading-none">JdnkSCB</div>
         </div>
       </div>
 
@@ -806,7 +806,7 @@ function Footer() {
               PRODIGI
             </div>
             <div className="text-[#D4AF37]/40 text-xs tracking-[0.4em] uppercase mt-1">
-              © {new Date().getFullYear()} — House Always Wins
+              © {new Date().getFullYear()} — JdnkSCB
             </div>
           </div>
           <div className="flex items-center gap-3">
