@@ -461,7 +461,7 @@ function Hero({ onShopClick }: { onShopClick: () => void }) {
           <GlitchText>Joedank-Suncoastbay</GlitchText>
           <br />
           <span className="text-[#D4AF37] relative">
-            BETS
+            Beats
             <GoldScribble className="bottom-0 left-0 w-full h-8 -mb-2" />
           </span>
         </motion.h1>
