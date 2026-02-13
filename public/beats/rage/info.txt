@@ -1,4 +1,4 @@
-BPM: 144
-Key: A# Phygrian
-Price: 29.99
-Tags: Prettifun, Che, Underground
+BPM: 135
+Key: D# Dorian
+Price: 19.99
+Tags: Slayr, Che, Underground

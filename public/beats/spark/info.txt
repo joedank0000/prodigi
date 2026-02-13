@@ -1,4 +1,4 @@
-BPM: 144
-Key: A# Phygrian
-Price: 29.99
-Tags: Prettifun, Che, Underground
+BPM: 148
+Key: A# Dorian
+Price: 14.99
+Tags: Prettifun, Che, Underground, Rexv2

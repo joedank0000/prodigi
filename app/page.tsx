@@ -461,7 +461,7 @@ function Hero({ onShopClick }: { onShopClick: () => void }) {
           <GlitchText>Joedank-Suncoastbay</GlitchText>
           <br />
           <span className="text-[#D4AF37] relative">
-            Beats
+            BEATS
             <GoldScribble className="bottom-0 left-0 w-full h-8 -mb-2" />
           </span>
         </motion.h1>
@@ -470,7 +470,7 @@ function Hero({ onShopClick }: { onShopClick: () => void }) {
           variants={{ hidden: { opacity: 0, y: 20 }, visible: { opacity: 1, y: 0 } }}
           className="text-white/40 text-sm md:text-base tracking-widest uppercase max-w-md mx-auto mt-8 mb-12"
         >
-          Chart-ready beats. Rare drumkits. Insane drops.
+          Charting beats. Rare drumkits. Insane drops.
           <br />
           <span className="text-[#8b0000]/80">LEASE BEATS TODAY</span>
         </motion.p>
