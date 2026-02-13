@@ -11,7 +11,7 @@ export async function POST(req: NextRequest) {
     const session = await stripe.checkout.sessions.create({
       mode: "payment",
       line_items: body.line_items,
-      success_url: body.success_url,
+      success_url: `${process.env.NEXT_PUBLIC_SITE_URL ?? 'https://your-vercel-url.vercel.app'}/checkout/success?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: body.cancel_url,
       shipping_address_collection: body.shipping_address_collection,
       payment_method_types: ["card"],
